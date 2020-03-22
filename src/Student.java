@@ -15,7 +15,7 @@ public class Student {
     }
 
     public Student() {
-        studentCount++;// - ?
+        studentCount++;
     }
 
     public static double getAvgRating() throws ArithmeticException {
