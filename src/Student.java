@@ -11,7 +11,7 @@ public class Student {
     public Student(String name) {
         this.name = name;
         studentCount++;
-        //TODO initialize name
+        //TODO initialize name.
     }
 
     public Student() {
