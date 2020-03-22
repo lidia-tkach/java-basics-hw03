@@ -5,13 +5,13 @@ public class Student {
     private String name;
     private int rating;
 
-    // TODO implement Student class according to the instructions provided in the README.md file
+    // TODO implement Student class according to the instructions provided in the README.md file.
 
 
     public Student(String name) {
         this.name = name;
         studentCount++;
-        //TODO initialize name.
+        //TODO initialize name
     }
 
     public Student() {
@@ -53,7 +53,7 @@ public class Student {
     }
 
     public String getName() {
-        return name;   // - passed
+        return name;
     }
 
     public void setName(String name) {
@@ -61,7 +61,7 @@ public class Student {
     }
 
     public int getRating() {
-        return rating; // - passed
+        return rating;
     }
 
     public void setRating(int rating) {
