@@ -6,7 +6,7 @@ public class Student {
     private int rating;
 
     // TODO implement Student class according to the instructions provided in the README.md file
-
+    // test
 
     public Student(String name) {
         this.name = name;
